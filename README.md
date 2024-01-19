@@ -28,6 +28,18 @@ This page contains a collection of opensource AI models and tools available for 
 - **Summary**: Combine static images with motion dynamics
 - **Resources**:
     - [AnimateDiff - Project Site](https://animatediff.github.io/)
+###### 4. PhotoMaker (2024 Jan)
+- **Summary**: Create photos/paintings/avatars of anyone in any style within seconds
+- **Resources**:
+    - [Photomaker - Project page](https://photo-maker.github.io/)
+    - [PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding - Paper](https://arxiv.org/abs/2312.04461)
+    - [Photomaker - Github](https://github.com/TencentARC/PhotoMaker)
+###### 5. DragGAN (2023 May)
+- **Summary**
+- **Resources**:
+    - [Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold - Project page](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)
+    - [Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold - Paper](https://arxiv.org/abs/2305.10973)
+    - [DragGAN - Github](https://github.com/XingangPan/DragGAN)
 ### Image Inpainting
 ###### 1. lama-cleaner (2022 Nov)
 - **Summary**: Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
@@ -59,6 +71,14 @@ This page contains a collection of opensource AI models and tools available for 
     - [Detecting Twenty-thousand Classes using Image-level Supervision - Paper](https://arxiv.org/abs/2201.02605)
     - [Replicate - Interactive demo](https://replicate.com/facebookresearch/detic)
     - [Detic - Github](https://github.com/facebookresearch/Detic)
+
+### Image embeddings
+###### 1. DINO
+- **Summary**: high-performance visual features that can be directly employed with classifiers as simple as linear layers on a variety of computer vision tasks
+- **Resources**:
+    - [DINOv2: State-of-the-art computer vision models with self-supervised learning - Blogpost](https://ai.meta.com/blog/dino-v2-computer-vision-self-supervised-learning/)
+    - [DINOv2: Learning Robust Visual Features without Supervision - Paper](https://arxiv.org/abs/2304.07193)
+    - [dinov2 - Github](https://github.com/facebookresearch/dinov2)
 ### Video
 
 ### Object tracking
@@ -316,7 +336,7 @@ This page contains a collection of opensource AI models and tools available for 
 - **Resources**:
     - [Announcing OpenChatKit](https://www.together.xyz/blog/openchatkit)
     - [OpenChatKit - Github](https://github.com/togethercomputer/OpenChatKit)
-###### 9. **FreedomGPT**
+###### 9. FreedomGPT
 - **Summary**: A React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface (based on Alpaca Lora)
 - **Resources**
     - https://github.com/ohmplatform/FreedomGPT
@@ -334,6 +354,11 @@ This page contains a collection of opensource AI models and tools available for 
 - **Summary**: A fast inference library for running LLMs locally on modern consumer-class GPUs
 - **Resources**
     - [exllamav2 - Github](https://github.com/turboderp/exllamav2)
+
+###### 13. QAnything
+- **Summary**: a local knowledge base question-answering system designed to support a wide range of file formats and databases, allowing for offline installation and use
+- **Resources**:
+    - [QAnything - Github](https://github.com/netease-youdao/QAnything)
 ---
 ## Vision
 ###### 1. PixelLib
