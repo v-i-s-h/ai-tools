@@ -359,6 +359,11 @@ This page contains a collection of opensource AI models and tools available for 
 - **Summary**: a local knowledge base question-answering system designed to support a wide range of file formats and databases, allowing for offline installation and use
 - **Resources**:
     - [QAnything - Github](https://github.com/netease-youdao/QAnything)
+
+#### 14. llmware
+- **Summary**:  Providing enterprise-grade LLM-based development framework, tools, and fine-tuned models. 
+- **Resources**:
+    - [llmware - Github](https://github.com/llmware-ai/llmware)
 ---
 ## Vision
 #### 1. PixelLib
