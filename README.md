@@ -231,6 +231,20 @@ This page contains a collection of opensource AI models and tools available for 
 - **Resources**:
     - [TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones](https://arxiv.org/abs/2312.16862) - Research paper
     - [TinyGPT-V - Github](https://github.com/DLYuanGod/TinyGPT-V) - Code
+#### 4. LLaVa (2023 Apr)
+- **Summary**:
+- **Resources**:
+    - [LLaVA: Large Language and Vision Assistant - Project page](https://llava-vl.github.io/)
+    - [Demo](https://llava.hliu.cc/)
+    - Research papers
+        - [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485) (NeurIPS 2023 Oral)
+        - [Improved Baselines with Visual Instruction Tuning](https://arxiv.org/abs/2310.03744) (LLaVa 1.5)
+    - [LLaVa - Github](https://github.com/haotian-liu/LLaVA)
+#### 5. moondream (2024 Jan)
+- **Summary**: a tiny (1.6B) vision language model that kicks ass and runs anywhere
+- **Resources**:
+    - [moondream - Github](https://github.com/vikhyat/moondream)
+    - [moondream - Huggingface Spaces](https://huggingface.co/spaces/vikhyatk/moondream1)
 ---
 ## Speech - Language
 ### Text to Speech
