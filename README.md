@@ -245,6 +245,14 @@ This page contains a collection of opensource AI models and tools available for 
 - **Resources**:
     - [moondream - Github](https://github.com/vikhyat/moondream)
     - [moondream - Huggingface Spaces](https://huggingface.co/spaces/vikhyatk/moondream1)
+#### 6. Large World Model (2024 Feb)
+- **Summary**: 1M context length open model for long video and audio understanding
+- **Resources**:
+    - [World Model on Million-Length Video and
+Language with RingAttention - Project Page](https://largeworldmodel.github.io/)
+    - [World Model on Million-Length Video And Language With RingAttention - arXiv paper](https://arxiv.org/abs/2402.08268)
+    - [LWM - Github](https://github.com/LargeWorldModel/LWM)
+    - [Large World Model - HuggingFace](https://huggingface.co/LargeWorldModel)
 ---
 ## Speech - Language
 ### Text to Speech
