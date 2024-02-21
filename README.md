@@ -203,6 +203,12 @@ This page contains a collection of opensource AI models and tools available for 
     - [Announcing Mistral 7B](https://mistral.ai/news/announcing-mistral-7b/) - Blog post
     - [mistral-src](https://github.com/mistralai/mistral-src) - Inference code
     - [Huggingface](https://huggingface.co/mistralai) - Model in hub
+#### 15. Gemma (2024 Feb 21)
+- **Summary**: Family of (4) SOTA LLMs (2B/7B x Base/Instruction) by Google
+- **Resources**
+    - [Welcome Gemma - Google’s new open LLM - Announcement](https://huggingface.co/blog/gemma)
+    - [Models - HuggingFace](https://huggingface.co/models?other=gemma&sort=trending&search=google)
+
 ### Embeddings
 #### 1. **StarSpace (2017)**
 - **Summary**: Learning embeddings for classification, retrieval and ranking.
