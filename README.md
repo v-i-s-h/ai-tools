@@ -208,6 +208,8 @@ This page contains a collection of opensource AI models and tools available for 
 - **Resources**
     - [Welcome Gemma - Google’s new open LLM - Announcement](https://huggingface.co/blog/gemma)
     - [Models - HuggingFace](https://huggingface.co/models?other=gemma&sort=trending&search=google)
+- **Projects**
+    - [gemma.cpp](https://github.com/google/gemma.cpp) -  lightweight, standalone C++ inference engine for Google's Gemma models
 
 ### Embeddings
 #### 1. **StarSpace (2017)**
@@ -441,6 +443,10 @@ Language with RingAttention - Project Page](https://largeworldmodel.github.io/)
 - **Resources**:
     - [LibreChat - Github](https://github.com/danny-avila/LibreChat)
     - [Documentation](https://docs.librechat.ai/index.html)
+#### 4. open-interpreter
+- **Summary**:  A natural language interface for computers
+- **Resources**:
+    - [open-interpreter - Github](https://github.com/KillianLucas/open-interpreter)
 ---
 ## Dataset management
 #### 1. fiftyone
@@ -476,7 +482,7 @@ Language with RingAttention - Project Page](https://largeworldmodel.github.io/)
 4. [modelscope](https://github.com/modelscope/modelscope) - bring the notion of Model-as-a-Service to life
 5. https://civitai.com/
 6. [open-llms](https://github.com/eugeneyan/open-llms) - A list of open LLMs available for commercial use.
-## AI in the world
+## AI in the wild
 1. [AI Product Index](https://github.com/dair-ai/AI-Product-Index) - A curated index to track AI-powered products.
 2. [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 3. [LinkedIn Post - Commercial use LLMs](https://www.linkedin.com/posts/sahar-mor_artificialintelligence-machinelearning-activity-7049789761728770049-QLsv?utm_source=share&utm_medium=member_desktop) -  List of commercially usable LLMs
