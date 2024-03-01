@@ -287,6 +287,10 @@ Language with RingAttention - Project Page](https://largeworldmodel.github.io/)
 - **Summary**: a powerful and modern open-source text-to-speech engine. EmotiVoice speaks both English and Chinese, and with over 2000 different voices. The most prominent feature is emotional synthesis, allowing you to create speech with a wide range of emotions, including happy, excited, sad, angry and others.
 - **Resources**
     - [EmotiVoice - Github](https://github.com/netease-youdao/EmotiVoice)
+#### 6. MeloTTS
+- **Summary**:  High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean. 
+- **Resources**:
+    - [MeloTTS - Github](https://github.com/myshell-ai/MeloTTS)
 
 ### Speech to Text
 #### 1. Coqui - STT
