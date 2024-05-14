@@ -415,6 +415,10 @@ Language with RingAttention - Project Page](https://largeworldmodel.github.io/)
 - **Summary**: We write your reusable computer vision tools.
 - **Resources**:
     - [supervision - Github](https://github.com/roboflow/supervision)
+#### 4. InvokeAI
+- **Summary**: InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media
+- **Resources**:
+    - [InvokeAI - Github](https://github.com/invoke-ai/InvokeAI?tab=readme-ov-file)
 ---
 ## Video
 #### 1. Roop (2023 Jun)
